@@ -1,4 +1,4 @@
-# peacot ctf 2025
+# peacoat ctf 2025
 
 ## participants
 - mels
